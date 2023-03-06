@@ -1,8 +1,8 @@
-**# Applied Econometrics**
+**Applied Econometrics**
 
 This repo is my study notes in **Applied econometrics** Module at University of Exeter.
 
-**# Applied econometrics 1**
+**Applied econometrics 1**
 
 This module employs statistical methods to real-world data to give a quantitative description of the relationship amongst variables around us and a measure of how precise this description is. In this module, we will briefly review probability theory and fundamental statistics, which will cover topics like hypothesis testing and confidence intervals. We will then proceed to regression analysis, which is the workhorse of applied econometrics. We will also attempt to cover more advanced topics in regression analysis such as, but not limited to, panel data methods and nonlinear functions.
 
@@ -23,7 +23,7 @@ Term 1
 | 11             | 5**th**Dec     | Changing units, regression through the origin, standardisation                                                             | Panel data methods                          | Quiz 5               |
 | 12             | 12**th**Dec    | -                                                                                                                          | Coursework                                  |                      |
 
-**# Applied Econometrics 2**
+**Applied Econometrics 2**
 
 In this module you will beintroduced to important concepts of time series econometrics and their usefulness in analysing financial/economic data. It is designed to give you an understanding of why the specific econometric methods are used, to provide you with a working ability of applying modern econometric methods and illustrate their application in finance.
 
@@ -51,4 +51,4 @@ T. C. Mills (1999) ,The Econometric Modelling of Financial Time Series, 2nd edit
 
 Introduction to Econometrics by James Stock and Mark Watson, 4th Edition (Global Edition), 2020 (Pearson International)
 
-[ntroduction to Econometrics with R by Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer (2019)](https://www.econometrics-with-r.org/index.html)
+[Introduction to Econometrics with R by Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer (2019)](https://www.econometrics-with-r.org/index.html)
